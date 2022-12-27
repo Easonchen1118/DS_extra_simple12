@@ -1,5 +1,5 @@
 #include <stdio.h>
-//遞迴程式練習
+//遞迴程式練習https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=30761
 int func (int num, int ans) {
     if (num == 0 || num == 1) {
         ans = num + 1;
